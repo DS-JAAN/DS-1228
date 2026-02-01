@@ -9,7 +9,7 @@
 
 * cd DS-1228
 
-* python DS-1228py
+* python DS1228.py
 
 # My WhatsApp Number 😁😁 
 # 03232706058
